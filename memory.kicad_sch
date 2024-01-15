@@ -1,0 +1,27 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid d364a9fa-d276-4acd-8a64-3aeccc9c0526)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (hierarchical_label "Y" (shape output) (at 148.59 57.15 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 72f6c210-155a-4dc3-97b5-341f6f82b205)
+  )
+  (hierarchical_label "Chroma" (shape input) (at 97.79 54.61 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 8aac1188-c8d7-421b-837d-eed1768a2e0d)
+  )
+  (hierarchical_label "Luma" (shape input) (at 102.87 64.77 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid a8d61f82-8dae-4a0d-a9bd-12e1cc282d65)
+  )
+  (hierarchical_label "CrCb" (shape output) (at 148.59 62.23 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid cc04d9d0-2ff9-4f3e-be4c-2419f43cd35c)
+  )
+)
