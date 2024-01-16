@@ -329,7 +329,7 @@
     ],
     [
       "23bf4837-f35d-40b3-9230-f145926e4d0d",
-      "Encoder"
+      "Decoder"
     ],
     [
       "5f11175b-e91a-4557-963e-2b2820dad3c4",
@@ -341,7 +341,7 @@
     ],
     [
       "bb54e2dc-3e5e-498f-a5bb-a811bc69f8e8",
-      "Decoder"
+      "Encoder"
     ]
   ],
   "text_variables": {}

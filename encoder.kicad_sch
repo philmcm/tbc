@@ -1,0 +1,27 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid f9bdfa4d-85e7-471f-be71-c27c578d59a6)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (hierarchical_label "CrCb" (shape input) (at 88.9 73.66 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 2bd5b92c-7c19-4e8c-9577-048b8a780f36)
+  )
+  (hierarchical_label "SCL" (shape input) (at 116.84 102.87 90) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 65940396-9bad-4b3c-95b4-039c7dcb49ea)
+  )
+  (hierarchical_label "Y" (shape input) (at 88.9 68.58 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid c5bbe060-9956-4803-944e-ea40db11e902)
+  )
+  (hierarchical_label "SDA" (shape bidirectional) (at 120.65 102.87 90) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid cb08195e-b993-4727-a92d-ec016df6af7e)
+  )
+)
