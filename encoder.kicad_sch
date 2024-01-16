@@ -4,6 +4,12 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Time Base Corrector and Video Scaler")
+    (date "2024-01-15")
+    (rev "1")
+  )
+
   (lib_symbols
     (symbol "tbc:AGND" (power) (pin_numbers hide) (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
       (property "Reference" "#PWR" (at 0 -6.35 0)
@@ -1330,6 +1336,10 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid a72c608b-5812-4449-ab21-34ceb58cd849)
   )
+  (label "DP[7..0]" (at 71.12 111.76 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid a978e556-c9c5-4ceb-9268-d482284c1b34)
+  )
   (label "MP2" (at 82.55 125.73 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid ca8393f1-b251-4bc0-b43d-7b88b04a3b18)
@@ -1341,6 +1351,10 @@
   (label "MP6" (at 82.55 115.57 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid def2dc11-0829-4874-844f-466efda8f930)
+  )
+  (label "MP[7..0]" (at 71.12 134.62 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid e56b57c0-0727-4928-b32c-7ce0c4991ae7)
   )
   (label "MP7" (at 82.55 113.03 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))

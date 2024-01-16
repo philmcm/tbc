@@ -5,10 +5,14 @@
   (paper "A4")
 
   (title_block
-    (title "Time Base Corrector")
+    (title "Time Base Corrector and Video Scaler")
     (date "2024-01-15")
     (rev "1")
-    (company "Wavelet Engineering Pty Ltd")
+    (company "Wavelet Engineering Pty Ltd (ACN 159 717 665)")
+    (comment 1 "https://github.com/philmcm/tbc")
+    (comment 2 "Enhancements by Phil McMillan © 2024")
+    (comment 3 "(refer links on left)")
+    (comment 4 "Original TBC circuit design © 2001 Marcus Gunnarsson")
   )
 
   (lib_symbols
@@ -157,6 +161,11 @@
   (text "Luma" (at 189.865 78.105 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid a1247c3e-793c-481a-bac0-8177640211bb)
+  )
+  (text "Links:\nhttps://web.archive.org/web/20181219122351/http://marcusgun.awardspace.com/newvidproc.html\nhttps://web.archive.org/web/20051101234823/http://www.astro.uu.se/~marcus/private/tbcsch.jpg"
+    (at 16.51 194.31 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid efba24d8-fce5-4b84-9706-a7d89ddca4b2)
   )
   (text "Chroma" (at 109.22 75.565 0)
     (effects (font (size 1.27 1.27)) (justify right bottom))

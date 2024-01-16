@@ -5,10 +5,9 @@
   (paper "A4")
 
   (title_block
-    (title "Time Base Corrector")
+    (title "Time Base Corrector and Video Scaler")
     (date "2024-01-15")
     (rev "1")
-    (company "Wavelet Engineering Pty Ltd")
   )
 
   (lib_symbols
