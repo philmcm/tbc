@@ -402,7 +402,10 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "tbc",
+      "arduinouno"
+    ]
   },
   "meta": {
     "filename": "tbc.kicad_pro",
@@ -487,19 +490,23 @@
     ],
     [
       "23bf4837-f35d-40b3-9230-f145926e4d0d",
-      "Decoder"
+      "Video Decoder"
     ],
     [
       "9336a744-46c0-44d0-bb63-d5b7d4716bcc",
-      "Frame Memories"
+      "Frame Memories and Freeze"
     ],
     [
       "bb54e2dc-3e5e-498f-a5bb-a811bc69f8e8",
-      "Encoder"
+      "Video Encoder"
     ],
     [
       "5f11175b-e91a-4557-963e-2b2820dad3c4",
-      "Microcontroller, UI and Power"
+      "Microcontroller, UI"
+    ],
+    [
+      "62085b71-69bf-4103-9630-c632803684fd",
+      "Power"
     ]
   ],
   "text_variables": {}
