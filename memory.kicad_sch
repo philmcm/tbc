@@ -3314,8 +3314,8 @@
     (property "Mouser" "603-RC0603FR-0710KL" (at 93.98 147.32 0) (show_name)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid 472543d7-f015-4be2-ba95-cfbed48f6aca))
-    (pin "2" (uuid 34898d4c-2dc1-45b5-93fd-9139cda68e23))
+    (pin "1" (uuid 472543d7-f015-4be2-ba95-cfbed48f6acb))
+    (pin "2" (uuid 34898d4c-2dc1-45b5-93fd-9139cda68e24))
     (instances
       (project "tbc"
         (path "/9df71e53-7941-4fd3-a17d-93619e4e3e02/9336a744-46c0-44d0-bb63-d5b7d4716bcc"

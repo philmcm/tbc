@@ -2292,7 +2292,7 @@
     (property "Reference" "Y?" (at 101.6 39.37 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "8MHz" (at 106.68 45.72 0)
+    (property "Value" "ECS-80-20-5PX-EM-TR" (at 106.68 45.72 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (at 106.68 54.61 0)
@@ -2786,6 +2786,13 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 4e6d0838-f31b-4052-8471-198aada56901))
+    (instances
+      (project "tbc"
+        (path "/9df71e53-7941-4fd3-a17d-93619e4e3e02/5f11175b-e91a-4557-963e-2b2820dad3c4"
+          (reference "#PWR?") (unit 1)
+        )
+      )
+    )
   )
 
   (symbol (lib_id "tbc:RC0603FR-074K7L") (at 83.82 82.55 90) (unit 1)
@@ -2974,8 +2981,8 @@
     (property "Mouser" " 81-GCM1885C2A300GA6D" (at 110.49 46.99 0) (show_name)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid 8148df1c-c19e-49fb-80c0-298589f2b061))
-    (pin "2" (uuid 0e1e67b4-235b-40c9-b767-2c209e85ed02))
+    (pin "1" (uuid 8148df1c-c19e-49fb-80c0-298589f2b062))
+    (pin "2" (uuid 0e1e67b4-235b-40c9-b767-2c209e85ed03))
     (instances
       (project "tbc"
         (path "/9df71e53-7941-4fd3-a17d-93619e4e3e02/5f11175b-e91a-4557-963e-2b2820dad3c4"
