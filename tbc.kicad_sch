@@ -280,7 +280,7 @@
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid 5f11175b-e91a-4557-963e-2b2820dad3c4)
-    (property "Sheetname" "Microcontroller, UI" (at 90.17 99.6184 0)
+    (property "Sheetname" "Microcontroller, Power" (at 90.17 99.6184 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
     (property "Sheetfile" "micro_ui.kicad_sch" (at 90.17 121.2346 0)
@@ -309,23 +309,6 @@
     (instances
       (project "tbc"
         (path "/9df71e53-7941-4fd3-a17d-93619e4e3e02" (page "5"))
-      )
-    )
-  )
-
-  (sheet (at 90.17 130.81) (size 24.13 16.51) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid))
-    (fill (color 0 0 0 0.0000))
-    (uuid 62085b71-69bf-4103-9630-c632803684fd)
-    (property "Sheetname" "Power" (at 90.17 130.0984 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheetfile" "power.kicad_sch" (at 90.17 147.9046 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (instances
-      (project "tbc"
-        (path "/9df71e53-7941-4fd3-a17d-93619e4e3e02" (page "6"))
       )
     )
   )

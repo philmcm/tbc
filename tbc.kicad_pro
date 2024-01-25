@@ -404,7 +404,8 @@
     "pinned_footprint_libs": [],
     "pinned_symbol_libs": [
       "tbc",
-      "arduinouno"
+      "arduinouno",
+      "kl02first"
     ]
   },
   "meta": {
@@ -502,11 +503,7 @@
     ],
     [
       "5f11175b-e91a-4557-963e-2b2820dad3c4",
-      "Microcontroller, UI"
-    ],
-    [
-      "62085b71-69bf-4103-9630-c632803684fd",
-      "Power"
+      "Microcontroller, Power"
     ]
   ],
   "text_variables": {}
