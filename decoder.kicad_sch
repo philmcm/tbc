@@ -2235,36 +2235,36 @@
     (uuid ff78a9cc-e3a0-4c37-89d9-4771d84b822c)
   )
 
-  (text_box "Note: ITRDY contains internal pullup"
+  (text_box "NOTE: ITRDY contains internal pullup"
     (at 224.79 92.71 0) (size 22.5425 5.08)
     (stroke (width 0) (type default))
     (fill (type none))
     (effects (font (size 1.27 1.27)) (justify left top))
     (uuid 05a12617-b112-4672-b36e-d1ff180230b5)
   )
-  (text_box "Note: do not populate, SAA7114H contains internal pulldown"
-    (at 224.79 123.19 0) (size 24.13 7.62)
+  (text_box "NOTE: do not populate, SAA7114H contains internal pulldown"
+    (at 224.79 123.19 0) (size 25.4 7.62)
     (stroke (width 0) (type default))
     (fill (type none))
     (effects (font (size 1.27 1.27)) (justify left top))
     (uuid 08caea89-fea1-4f94-a423-63f25ca4bd33)
   )
-  (text_box "Note: added decoupling cap for VDD(XTAL)"
+  (text_box "NOTE: added decoupling cap for VDD(XTAL)"
     (at 151.13 161.29 0) (size 17.78 7.62)
     (stroke (width 0) (type default))
     (fill (type none))
     (effects (font (size 1.27 1.27)) (justify left top))
     (uuid 66fa38aa-1f69-46ce-8a35-d0811d8bc0c4)
   )
-  (text_box "Note: POR circuit added for CE"
-    (at 90.17 156.21 0) (size 19.05 5.08)
+  (text_box "NOTE: POR circuit added for CE"
+    (at 87.63 157.48 0) (size 21.59 5.08)
     (stroke (width 0) (type default))
     (fill (type none))
     (effects (font (size 1.27 1.27)) (justify left top))
     (uuid c46e724d-8563-4048-b33c-a7e5936ab779)
   )
   (text_box "NOTE: major differences from Marcus's circuit and this one include:\n1. Marcus used 22R for each of the inputs, I used 18R per datasheet;\n** 2. Marcus connected his S-VIDEO signal to AI12 and AI22, I connected mine to AI21 and AI22, I'll need to double-check the datasheet on this, it might be an error\n3. Marcus had an AGND and DGND, this board only has a single (non-split) GND; and\n4. This circuit does not populate the ALRCLK pull-down to GND, as there is already an internal pulldown per datasheet."
-    (at 205.74 144.78 0) (size 72.39 19.05)
+    (at 210.82 144.78 0) (size 72.39 19.05)
     (stroke (width 0) (type default))
     (fill (type none))
     (effects (font (size 1.27 1.27)) (justify left top))
@@ -2284,15 +2284,24 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 484b1d9f-49c8-4974-a585-9a69394aa51c)
   )
+  (text "TODO: determine whether I2C port\nsupports address auto-increment\n(like the SAA7182A does)"
+    (at 74.93 29.21 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid ba9c88ad-5ab6-45c2-be2c-bd335129f04b)
+  )
   (text "TODO: does ITRI need connecting?\n(I think no, because \"enable under\nsoftware control\" per datasheet)"
     (at 224.79 106.68 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid be26f8e9-c979-40d6-b004-969530179639)
   )
   (text "TODO: does XTRI need connecting?\n(I think no, because \"enable under\nsoftware control\" per datasheet)"
-    (at 58.42 53.34 0)
+    (at 57.15 53.34 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid dd638cb5-0d68-40ac-a1a6-ebab88bb4274)
+  )
+  (text "Expansion port unused in this design." (at 57.15 63.5 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid f6a3b35e-de3b-45f8-a2d1-4f573e558719)
   )
 
   (label "IPD6" (at 218.44 71.12 180) (fields_autoplaced)
