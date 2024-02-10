@@ -5,7 +5,7 @@
       (effects (font (size 0.8 0.8) (thickness 0.15)))
     (tstamp 18c9bb53-4218-439b-8803-9ab868cd7e59)
   )
-  (fp_text value "TTP-44DB" (at 0 10.25 180) (layer "F.Fab")
+  (fp_text value "TTP-44DB" (at 0 10.25 180) (layer "F.Fab") hide
       (effects (font (size 0.8 0.8) (thickness 0.15)))
     (tstamp ec57b03b-59e7-454e-8eca-291192fb236b)
   )

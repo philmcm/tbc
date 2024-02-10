@@ -5,7 +5,7 @@
       (effects (font (size 0.8 0.8) (thickness 0.15)))
     (tstamp 86ebaa60-4c38-40a5-a954-d3cc3d43149f)
   )
-  (fp_text value "QFP32_7x7x1.6mm_Pitch0.8mm" (at 0 5.85) (layer "F.Fab")
+  (fp_text value "QFP32_7x7x1.6mm_Pitch0.8mm" (at 0 5.85) (layer "F.Fab") hide
       (effects (font (size 0.8 0.8) (thickness 0.15)))
     (tstamp b6f0ad01-d5d1-4407-b0be-485ff0e2d4b7)
   )
