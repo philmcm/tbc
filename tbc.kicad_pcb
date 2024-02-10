@@ -75,4 +75,7 @@
 
   (net 0 "")
 
+  (gr_rect (start 69.85 52.07) (end 160.02 101.6)
+    (stroke (width 0.1) (type default)) (fill none) (layer "Edge.Cuts") (tstamp a2e08d54-5e53-4648-80b0-bca41d431be2))
+
 )
