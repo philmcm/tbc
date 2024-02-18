@@ -45,7 +45,7 @@
   (pad "4" thru_hole circle (at 3.81 3.81) (size 1.4 1.4) (drill 0.7) (layers "*.Cu" "*.Mask") (tstamp e372cbfd-a739-41ce-bc00-93a2dcfb472e))
   (pad "5" thru_hole circle (at 3.81 -3.81) (size 1.4 1.4) (drill 0.7) (layers "*.Cu" "*.Mask") (tstamp ef83b81e-75ec-4a89-877b-97e26dec074f))
   (pad "8" thru_hole circle (at -3.81 -3.81) (size 1.4 1.4) (drill 0.7) (layers "*.Cu" "*.Mask") (tstamp cb8b34ca-7d34-4cb3-bbf2-a02ceb6936e7))
-  (model "/home/phil/Downloads/ACHL.STEP"
+  (model "${KIPRJMOD}/3dmodels/ACHL.STEP"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
