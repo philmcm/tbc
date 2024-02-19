@@ -531,5 +531,7 @@
       "Microcontroller, Power"
     ]
   ],
-  "text_variables": {}
+  "text_variables": {
+    "VERSION": "1"
+  }
 }
