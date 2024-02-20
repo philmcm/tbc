@@ -2538,7 +2538,7 @@
     (property "Value" "22u|25V" (at 35.56 177.8 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "tbc:GRM32" (at 43.18 177.8 0)
+    (property "Footprint" "tbc:GRM32" (at 43.18 177.8 0) (show_name)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.mouser.com/datasheet/2/281/1/GRM32ER71E226KE15_04CA-1988287.pdf" (at 44.45 191.77 0) (show_name)

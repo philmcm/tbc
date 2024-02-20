@@ -31,7 +31,7 @@
     (stroke (width 0.15) (type default)) (layer "F.Fab") (tstamp 50d46652-6fe7-43d9-89c0-fe58e7ddc43b))
   (pad "1" smd rect (at -1.65 0) (size 1.2 2.3) (layers "F.Cu" "F.Paste" "F.Mask")
     (thermal_bridge_angle 45) (tstamp 40d5ced9-03fa-459f-98b9-7beac50e1c44))
-  (pad "2" smd rect (at 1.65 0) (size 1.2 2.3) (layers "*.Mask" "F.Cu" "F.Paste")
+  (pad "2" smd rect (at 1.65 0) (size 1.2 2.3) (layers "F.Cu" "F.Paste" "F.Mask")
     (thermal_bridge_angle 45) (tstamp 981cee39-8ee9-433e-8f21-20a85eecd0e4))
   (model "${KIPRJMOD}/3dmodels/GRM32ER71E226KE15L.STEP"
     (offset (xyz 0 -1.35 0))
