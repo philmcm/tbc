@@ -2519,7 +2519,7 @@
   )
 
   (symbol (lib_id "tbc:MH_7.4MMNCx3.2MMD") (at 187.96 154.94 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 051b0184-9f67-46ea-a7a8-d35ab21dd2fc)
     (property "Reference" "MH2" (at 186.69 151.13 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2920,7 +2920,7 @@
   )
 
   (symbol (lib_id "tbc:MH_7.4MMNCx3.2MMD") (at 196.85 146.05 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 486c79f7-f93b-43b8-b779-c40fdec7c13c)
     (property "Reference" "MH3" (at 195.58 142.24 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -3007,7 +3007,7 @@
   )
 
   (symbol (lib_id "tbc:MH_7.4MMNCx3.2MMD") (at 187.96 146.05 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 63378fc4-1a21-4728-be9e-84e7f3b1bfb1)
     (property "Reference" "MH1" (at 186.69 142.24 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -3737,7 +3737,7 @@
   )
 
   (symbol (lib_id "tbc:MH_7.4MMNCx3.2MMD") (at 196.85 154.94 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid d508b32c-fef7-4bd6-abbc-94322b804f26)
     (property "Reference" "MH4" (at 195.58 151.13 0)
       (effects (font (size 1.27 1.27)) (justify left))

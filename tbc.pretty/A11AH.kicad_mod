@@ -49,10 +49,10 @@
     (stroke (width 0.15) (type default)) (layer "F.Fab") (tstamp 3701ebaf-8dca-49f9-bb36-b0f750002f04))
   (fp_line (start 4.4 4.3) (end 2.54 4.3)
     (stroke (width 0.15) (type default)) (layer "F.Fab") (tstamp 76183973-d737-4b2f-83d7-94c4965273a6))
+  (pad "" thru_hole circle (at -2.54 0) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp ef04f448-6c14-4438-827a-ef6cf2d05044))
+  (pad "" thru_hole circle (at 2.54 0) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp a04d8738-a273-4c06-a717-5f7d20f31257))
   (pad "1" thru_hole circle (at -2.54 -5.08) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp 0fa9f3a3-75db-4892-8b44-b8758a5d4011))
   (pad "3" thru_hole circle (at 2.54 -5.08) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp dbbb6e33-dc7d-4ffe-89bf-0848e879b7b9))
-  (pad "~" thru_hole circle (at -2.54 0) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp ef04f448-6c14-4438-827a-ef6cf2d05044))
-  (pad "~" thru_hole circle (at 2.54 0) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp a04d8738-a273-4c06-a717-5f7d20f31257))
   (model "${KIPRJMOD}/3dmodels/A11AH-GA.stp"
     (offset (xyz 0 -4.3 2.8))
     (scale (xyz 1 1 1))

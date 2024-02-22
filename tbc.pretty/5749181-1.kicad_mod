@@ -34,12 +34,12 @@
   (fp_line (start 7 -4.7) (end 7 8.13)
     (stroke (width 0.15) (type default)) (layer "F.Fab") (tstamp 6516ad42-aa45-4a8f-8cd1-78ec15b3d805))
   (pad "" np_thru_hole circle (at -6.76 0.81) (size 2.29 2.29) (drill 2.29) (layers "F&B.Cu" "*.Mask") (tstamp 7b2b7b94-3254-4c3d-90ac-21f32eeb6ba3))
+  (pad "" thru_hole oval (at 0 0) (size 4.58 2.5) (drill oval 2.5 1) (layers "*.Cu" "*.Mask") (tstamp 4ee75657-bd06-495c-a842-0fc9652abff6))
   (pad "" np_thru_hole circle (at 6.76 0.81) (size 2.29 2.29) (drill 2.29) (layers "F&B.Cu" "*.Mask") (tstamp 87aeb6cf-dc6a-48e6-bbab-63f30a7a1173))
   (pad "1" thru_hole circle (at 3.35 3.81) (size 1.78 1.78) (drill 0.89) (layers "*.Cu" "*.Mask") (tstamp 09d10df4-5760-4d09-b030-bba2d34a0180))
   (pad "2" thru_hole circle (at -3.35 3.81) (size 1.78 1.78) (drill 0.89) (layers "*.Cu" "*.Mask") (tstamp 2d8f5a81-8eb8-44bf-9755-59f0a873145d))
   (pad "3" thru_hole circle (at 3.35 6.3) (size 1.78 1.78) (drill 0.89) (layers "*.Cu" "*.Mask") (tstamp 8dc24b15-08d5-48f3-8340-486fa8118767))
   (pad "4" thru_hole circle (at -3.35 6.3) (size 1.78 1.78) (drill 0.89) (layers "*.Cu" "*.Mask") (tstamp 5a91dd51-2dcb-4c9f-b1e9-d52fd2256cef))
-  (pad "~" thru_hole oval (at 0 0) (size 4.58 2.5) (drill oval 2.5 1) (layers "*.Cu" "*.Mask") (tstamp 4ee75657-bd06-495c-a842-0fc9652abff6))
   (model "${KIPRJMOD}/3dmodels/c-5749181-1-a-3d.stp"
     (offset (xyz 0 4.615 6.5))
     (scale (xyz 1 1 1))
