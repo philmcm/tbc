@@ -63,7 +63,8 @@
 				)
 			)
 			(property "Sim.Enable" "0"
-				(at 0 0 0)
+				(at 0 -12.446 0)
+				(show_name)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -6702,7 +6703,6 @@
 	)
 	(label "IPD6"
 		(at 218.44 71.12 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6713,7 +6713,6 @@
 	)
 	(label "HPD2"
 		(at 218.44 58.42 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6724,7 +6723,6 @@
 	)
 	(label "IPD4"
 		(at 218.44 76.2 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6735,7 +6733,6 @@
 	)
 	(label "HPD0"
 		(at 218.44 63.5 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6746,7 +6743,6 @@
 	)
 	(label "IPD7"
 		(at 218.44 68.58 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6757,7 +6753,6 @@
 	)
 	(label "HPD3"
 		(at 218.44 55.88 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6768,7 +6763,6 @@
 	)
 	(label "IPD3"
 		(at 218.44 78.74 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6779,7 +6773,6 @@
 	)
 	(label "IPD1"
 		(at 218.44 83.82 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6790,7 +6783,6 @@
 	)
 	(label "HPD5"
 		(at 218.44 50.8 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6801,7 +6793,6 @@
 	)
 	(label "HPD4"
 		(at 218.44 53.34 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6812,7 +6803,6 @@
 	)
 	(label "IPD5"
 		(at 218.44 73.66 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6823,7 +6813,6 @@
 	)
 	(label "HPD6"
 		(at 218.44 48.26 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6834,7 +6823,6 @@
 	)
 	(label "HPD1"
 		(at 218.44 60.96 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6845,7 +6833,6 @@
 	)
 	(label "IPD0"
 		(at 218.44 86.36 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6856,7 +6843,6 @@
 	)
 	(label "HPD7"
 		(at 218.44 45.72 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6867,7 +6853,6 @@
 	)
 	(label "IPD2"
 		(at 218.44 81.28 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6879,7 +6864,6 @@
 	(hierarchical_label "ICLK"
 		(shape output)
 		(at 214.63 96.52 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6891,7 +6875,6 @@
 	(hierarchical_label "VDEC_RST"
 		(shape input)
 		(at 115.57 147.32 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6903,7 +6886,6 @@
 	(hierarchical_label "IGP0"
 		(shape output)
 		(at 214.63 104.14 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6915,7 +6897,6 @@
 	(hierarchical_label "CVBS_2_IN"
 		(shape input)
 		(at 36.83 113.03 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6927,7 +6908,6 @@
 	(hierarchical_label "IGPV"
 		(shape output)
 		(at 214.63 109.22 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6939,7 +6919,6 @@
 	(hierarchical_label "IPD[7..0]"
 		(shape output)
 		(at 227.33 90.17 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6951,7 +6930,6 @@
 	(hierarchical_label "SDA"
 		(shape bidirectional)
 		(at 114.3 27.94 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6963,7 +6941,6 @@
 	(hierarchical_label "SCL"
 		(shape input)
 		(at 110.49 27.94 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6975,7 +6952,6 @@
 	(hierarchical_label "IGPH"
 		(shape output)
 		(at 214.63 111.76 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6987,7 +6963,6 @@
 	(hierarchical_label "IDQ"
 		(shape output)
 		(at 214.63 99.06 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6999,7 +6974,6 @@
 	(hierarchical_label "C_IN"
 		(shape input)
 		(at 36.83 100.33 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7011,7 +6985,6 @@
 	(hierarchical_label "CVBS_1_IN"
 		(shape input)
 		(at 36.83 119.38 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7023,7 +6996,6 @@
 	(hierarchical_label "HPD[7..0]"
 		(shape output)
 		(at 227.33 67.31 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7035,7 +7007,6 @@
 	(hierarchical_label "Y_IN"
 		(shape input)
 		(at 36.83 106.68 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7047,7 +7018,6 @@
 	(hierarchical_label "IGP1"
 		(shape output)
 		(at 214.63 106.68 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9393,6 +9363,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Enable" "0"
+			(at 156.21 36.576 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "656ddf57-f12c-4dd7-8034-f087744e05aa")
 		)
@@ -9451,6 +9430,15 @@
 		)
 		(property "Description" ""
 			(at 123.19 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Enable" "0"
+			(at 123.19 173.736 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9827,6 +9815,15 @@
 		)
 		(property "Description" ""
 			(at 78.74 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Enable" "0"
+			(at 78.74 182.626 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10597,6 +10594,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Enable" "0"
+			(at 49.53 32.766 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "09f4bef7-2a3f-42f0-8c46-2f547f745d52")
 		)
@@ -11209,6 +11215,15 @@
 		)
 		(property "Description" ""
 			(at 17.78 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Enable" "0"
+			(at 17.78 182.626 0)
 			(effects
 				(font
 					(size 1.27 1.27)

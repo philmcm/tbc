@@ -63,7 +63,8 @@
 				)
 			)
 			(property "Sim.Enable" "0"
-				(at 0 0 0)
+				(at 0 -12.446 0)
+				(show_name)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1197,7 +1198,7 @@
 				)
 			)
 			(property "Description" "Tantalum Capacitors - Solid SMD 22uF 25volts 10% D case Molded"
-				(at 0 0 0)
+				(at -0.254 -18.034 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -6305,7 +6306,6 @@
 	)
 	(label "EXP_8"
 		(at 196.85 93.98 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6316,7 +6316,6 @@
 	)
 	(label "EXP_4"
 		(at 196.85 83.82 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6327,7 +6326,6 @@
 	)
 	(label "EXP_5"
 		(at 196.85 86.36 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6338,7 +6336,6 @@
 	)
 	(label "EXP_1"
 		(at 196.85 68.58 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6349,7 +6346,6 @@
 	)
 	(label "+5V"
 		(at 158.75 163.83 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6360,7 +6356,6 @@
 	)
 	(label "MEM_CLR"
 		(at 196.85 106.68 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6371,7 +6366,6 @@
 	)
 	(label "D_50HZ"
 		(at 196.85 63.5 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6382,7 +6376,6 @@
 	)
 	(label "D_SIGNAL"
 		(at 196.85 58.42 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6393,7 +6386,6 @@
 	)
 	(label "EXP_9"
 		(at 196.85 96.52 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6404,7 +6396,6 @@
 	)
 	(label "RENC_B"
 		(at 196.85 78.74 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6415,7 +6406,6 @@
 	)
 	(label "D_60HZ"
 		(at 196.85 66.04 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6426,7 +6416,6 @@
 	)
 	(label "D_READY"
 		(at 196.85 55.88 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6437,7 +6426,6 @@
 	)
 	(label "RENC_SW"
 		(at 196.85 81.28 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6448,7 +6436,6 @@
 	)
 	(label "VENC_RST"
 		(at 196.85 101.6 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6459,7 +6446,6 @@
 	)
 	(label "EXP_2"
 		(at 196.85 71.12 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6470,7 +6456,6 @@
 	)
 	(label "PIN"
 		(at 109.22 140.97 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6481,7 +6466,6 @@
 	)
 	(label "SCL2"
 		(at 209.55 50.8 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6492,7 +6476,6 @@
 	)
 	(label "EXP_3"
 		(at 196.85 73.66 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6503,7 +6486,6 @@
 	)
 	(label "EXP_7"
 		(at 196.85 91.44 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6514,7 +6496,6 @@
 	)
 	(label "MEM_MODE"
 		(at 196.85 104.14 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6525,7 +6506,6 @@
 	)
 	(label "SDA2"
 		(at 209.55 53.34 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6536,7 +6516,6 @@
 	)
 	(label "VDEC_RST"
 		(at 196.85 99.06 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6547,7 +6526,6 @@
 	)
 	(label "EXP_6"
 		(at 196.85 88.9 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6558,7 +6536,6 @@
 	)
 	(label "D_INTERLACED"
 		(at 196.85 60.96 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6569,7 +6546,6 @@
 	)
 	(label "+3V3"
 		(at 158.75 140.97 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6580,7 +6556,6 @@
 	)
 	(label "RENC_A"
 		(at 196.85 76.2 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6591,7 +6566,6 @@
 	)
 	(label "SDA2"
 		(at 72.39 93.98 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6602,7 +6576,6 @@
 	)
 	(label "SCL2"
 		(at 72.39 91.44 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6614,7 +6587,6 @@
 	(hierarchical_label "MEM_CLR"
 		(shape output)
 		(at 201.93 106.68 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6626,7 +6598,6 @@
 	(hierarchical_label "SCL"
 		(shape output)
 		(at 77.47 104.14 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6638,7 +6609,6 @@
 	(hierarchical_label "FREEZE"
 		(shape output)
 		(at 208.28 48.26 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6650,7 +6620,6 @@
 	(hierarchical_label "SDA"
 		(shape bidirectional)
 		(at 77.47 106.68 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6662,7 +6631,6 @@
 	(hierarchical_label "MEM_MODE"
 		(shape output)
 		(at 201.93 104.14 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6674,7 +6642,6 @@
 	(hierarchical_label "VENC_RST"
 		(shape output)
 		(at 201.93 101.6 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6686,7 +6653,6 @@
 	(hierarchical_label "VDEC_RST"
 		(shape output)
 		(at 201.93 99.06 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6830,6 +6796,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Enable" "0"
+			(at 81.28 87.376 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7c3e32e8-9f11-4a12-bf17-7ebccaed151d")
 		)
@@ -6916,7 +6891,7 @@
 		(dnp no)
 		(uuid "05aab346-9a9e-4e48-a521-118fbc2d3680")
 		(property "Reference" "C55"
-			(at 148.59 165.1 90)
+			(at 147.066 172.72 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6952,7 +6927,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Tantalum Capacitors - Solid SMD 22uF 25volts 10% D case Molded"
 			(at 152.4 168.91 0)
 			(effects
 				(font
@@ -6964,6 +6939,15 @@
 		(property "Mouser" "74-593D226X9025D2TE3"
 			(at 142.24 168.91 0)
 			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Enable" "0"
+			(at 137.16 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8019,6 +8003,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Enable" "0"
+			(at 68.58 59.436 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6c4415b8-605f-40b5-81d7-f935d9d5c1e2")
 		)
@@ -8222,6 +8215,15 @@
 		)
 		(property "Description" ""
 			(at 214.63 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Enable" "0"
+			(at 214.63 41.656 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8557,7 +8559,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Tantalum Capacitors - Solid SMD 22uF 25volts 10% D case Molded"
 			(at 152.4 146.05 0)
 			(effects
 				(font
@@ -8569,6 +8571,15 @@
 		(property "Mouser" "74-593D226X9025D2TE3"
 			(at 142.24 146.05 0)
 			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Enable" "0"
+			(at 137.16 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8866,6 +8877,15 @@
 		)
 		(property "Description" ""
 			(at 158.75 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Enable" "0"
+			(at 158.75 41.656 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9965,6 +9985,15 @@
 		)
 		(property "Description" ""
 			(at 85.09 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Enable" "0"
+			(at 85.09 59.436 0)
 			(effects
 				(font
 					(size 1.27 1.27)

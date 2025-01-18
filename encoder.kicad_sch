@@ -63,7 +63,8 @@
 				)
 			)
 			(property "Sim.Enable" "0"
-				(at 0 0 0)
+				(at 0 -12.446 0)
+				(show_name)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -7990,7 +7991,6 @@
 	)
 	(label "DP2"
 		(at 72.39 101.6 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8001,7 +8001,6 @@
 	)
 	(label "MP3"
 		(at 72.39 121.92 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8012,7 +8011,6 @@
 	)
 	(label "MP5"
 		(at 72.39 116.84 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8023,7 +8021,6 @@
 	)
 	(label "MP1"
 		(at 72.39 127 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8034,7 +8031,6 @@
 	)
 	(label "DP5"
 		(at 72.39 93.98 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8045,7 +8041,6 @@
 	)
 	(label "MP4"
 		(at 72.39 119.38 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8056,7 +8051,6 @@
 	)
 	(label "DP6"
 		(at 72.39 91.44 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8067,7 +8061,6 @@
 	)
 	(label "MP0"
 		(at 72.39 129.54 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8078,7 +8071,6 @@
 	)
 	(label "DP1"
 		(at 72.39 104.14 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8089,7 +8081,6 @@
 	)
 	(label "MP2"
 		(at 72.39 124.46 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8100,7 +8091,6 @@
 	)
 	(label "DP3"
 		(at 72.39 99.06 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8111,7 +8101,6 @@
 	)
 	(label "MP6"
 		(at 72.39 114.3 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8122,7 +8111,6 @@
 	)
 	(label "MP7"
 		(at 72.39 111.76 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8133,7 +8121,6 @@
 	)
 	(label "DP4"
 		(at 72.39 96.52 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8144,7 +8131,6 @@
 	)
 	(label "DP0"
 		(at 72.39 106.68 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8155,7 +8141,6 @@
 	)
 	(label "DP7"
 		(at 72.39 88.9 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8167,7 +8152,6 @@
 	(hierarchical_label "RCV2"
 		(shape output)
 		(at 213.36 92.71 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8179,7 +8163,6 @@
 	(hierarchical_label "C_OUT"
 		(shape output)
 		(at 264.16 142.24 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8191,7 +8174,6 @@
 	(hierarchical_label "MP[7..0]"
 		(shape input)
 		(at 67.31 133.35 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8203,7 +8185,6 @@
 	(hierarchical_label "CREF"
 		(shape output)
 		(at 199.39 91.44 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8215,7 +8196,6 @@
 	(hierarchical_label "R"
 		(shape output)
 		(at 264.16 109.22 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8227,7 +8207,6 @@
 	(hierarchical_label "VENC_RST"
 		(shape input)
 		(at 102.87 168.91 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8239,7 +8218,6 @@
 	(hierarchical_label "SCL"
 		(shape input)
 		(at 76.2 139.7 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8251,7 +8229,6 @@
 	(hierarchical_label "Q2"
 		(shape output)
 		(at 256.54 92.71 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8263,7 +8240,6 @@
 	(hierarchical_label "B"
 		(shape output)
 		(at 264.16 121.92 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8275,7 +8251,6 @@
 	(hierarchical_label "LLC"
 		(shape output)
 		(at 199.39 81.28 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8287,7 +8262,6 @@
 	(hierarchical_label "Q1"
 		(shape output)
 		(at 256.54 85.09 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8299,7 +8273,6 @@
 	(hierarchical_label "CVBS_OUT"
 		(shape output)
 		(at 264.16 129.54 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8311,7 +8284,6 @@
 	(hierarchical_label "G"
 		(shape output)
 		(at 264.16 115.57 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8323,7 +8295,6 @@
 	(hierarchical_label "Y_OUT"
 		(shape output)
 		(at 264.16 135.89 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8335,7 +8306,6 @@
 	(hierarchical_label "RCV1"
 		(shape output)
 		(at 210.82 92.71 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8347,7 +8317,6 @@
 	(hierarchical_label "DP[7..0]"
 		(shape input)
 		(at 67.31 110.49 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8359,7 +8328,6 @@
 	(hierarchical_label "SDA"
 		(shape bidirectional)
 		(at 76.2 142.24 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9733,6 +9701,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Enable" "0"
+			(at 105.41 200.406 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0b3ca3b0-af6d-4088-9927-5c6433802c57")
 		)
@@ -10330,6 +10307,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Enable" "0"
+			(at 101.6 61.976 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8f7f5a2a-3f5c-41f5-be52-b231865ec160")
 		)
@@ -10460,6 +10446,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Enable" "0"
+			(at 33.02 178.816 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e6cfe1a5-e834-48b5-930b-6aab1031e8f1")
 		)
@@ -10490,7 +10485,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "CD74HC74M96 "
+		(property "Value" "CD74HC74M96"
 			(at 251.46 99.06 0)
 			(effects
 				(font
@@ -11813,6 +11808,15 @@
 		)
 		(property "Description" ""
 			(at 163.83 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Enable" "0"
+			(at 163.83 42.926 0)
 			(effects
 				(font
 					(size 1.27 1.27)

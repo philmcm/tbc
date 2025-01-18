@@ -6780,7 +6780,6 @@
 	)
 	(label "HPD3"
 		(at 100.33 101.6 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6791,7 +6790,6 @@
 	)
 	(label "MEM_MODE"
 		(at 149.86 73.66 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6802,7 +6800,6 @@
 	)
 	(label "IPD4"
 		(at 101.6 156.21 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6813,7 +6810,6 @@
 	)
 	(label "MP2"
 		(at 171.45 161.29 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6824,7 +6820,6 @@
 	)
 	(label "MP7"
 		(at 171.45 148.59 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6835,7 +6830,6 @@
 	)
 	(label "DP4"
 		(at 171.45 99.06 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6846,7 +6840,6 @@
 	)
 	(label "IPD5"
 		(at 101.6 210.82 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6857,7 +6850,6 @@
 	)
 	(label "DP5"
 		(at 171.45 96.52 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6868,7 +6860,6 @@
 	)
 	(label "HPD2"
 		(at 100.33 104.14 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6879,7 +6870,6 @@
 	)
 	(label "IPD1"
 		(at 101.6 163.83 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6890,7 +6880,6 @@
 	)
 	(label "MP4"
 		(at 171.45 156.21 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6901,7 +6890,6 @@
 	)
 	(label "HPD3"
 		(at 101.6 44.45 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6912,7 +6900,6 @@
 	)
 	(label "MEM_CLR"
 		(at 140.97 16.51 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6923,7 +6910,6 @@
 	)
 	(label "IPD2"
 		(at 101.6 161.29 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6934,7 +6920,6 @@
 	)
 	(label "IPD0"
 		(at 101.6 166.37 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6945,7 +6930,6 @@
 	)
 	(label "IPD5"
 		(at 101.6 153.67 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6956,7 +6940,6 @@
 	)
 	(label "HPD6"
 		(at 101.6 36.83 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6967,7 +6950,6 @@
 	)
 	(label "IPD6"
 		(at 101.6 151.13 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6978,7 +6960,6 @@
 	)
 	(label "DP6"
 		(at 171.45 93.98 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6989,7 +6970,6 @@
 	)
 	(label "MP6"
 		(at 171.45 151.13 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7000,7 +6980,6 @@
 	)
 	(label "MP5"
 		(at 171.45 153.67 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7011,7 +6990,6 @@
 	)
 	(label "MP2"
 		(at 171.45 218.44 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7022,7 +7000,6 @@
 	)
 	(label "MEM_CLR"
 		(at 140.97 73.66 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7033,7 +7010,6 @@
 	)
 	(label "DP7"
 		(at 171.45 91.44 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7044,7 +7020,6 @@
 	)
 	(label "IPD7"
 		(at 101.6 205.74 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7055,7 +7030,6 @@
 	)
 	(label "IPD1"
 		(at 101.6 220.98 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7066,7 +7040,6 @@
 	)
 	(label "HPD5"
 		(at 100.33 96.52 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7077,7 +7050,6 @@
 	)
 	(label "DP5"
 		(at 171.45 39.37 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7088,7 +7060,6 @@
 	)
 	(label "IPD4"
 		(at 101.6 213.36 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7099,7 +7070,6 @@
 	)
 	(label "IPD6"
 		(at 101.6 208.28 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7110,7 +7080,6 @@
 	)
 	(label "HPD1"
 		(at 100.33 106.68 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7121,7 +7090,6 @@
 	)
 	(label "HPD0"
 		(at 100.33 109.22 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7132,7 +7100,6 @@
 	)
 	(label "MEM_MODE"
 		(at 149.86 187.96 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7143,7 +7110,6 @@
 	)
 	(label "DP1"
 		(at 171.45 49.53 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7154,7 +7120,6 @@
 	)
 	(label "DP3"
 		(at 171.45 44.45 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7165,7 +7130,6 @@
 	)
 	(label "HPD2"
 		(at 101.6 46.99 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7176,7 +7140,6 @@
 	)
 	(label "HPD5"
 		(at 101.6 39.37 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7187,7 +7150,6 @@
 	)
 	(label "MP3"
 		(at 171.45 158.75 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7198,7 +7160,6 @@
 	)
 	(label "MP1"
 		(at 171.45 220.98 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7209,7 +7170,6 @@
 	)
 	(label "HPD0"
 		(at 101.6 52.07 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7220,7 +7180,6 @@
 	)
 	(label "MP6"
 		(at 171.45 208.28 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7231,7 +7190,6 @@
 	)
 	(label "MP3"
 		(at 171.45 215.9 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7242,7 +7200,6 @@
 	)
 	(label "DP3"
 		(at 171.45 101.6 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7253,7 +7210,6 @@
 	)
 	(label "DP4"
 		(at 171.45 41.91 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7264,7 +7220,6 @@
 	)
 	(label "IPD3"
 		(at 101.6 215.9 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7275,7 +7230,6 @@
 	)
 	(label "IPD7"
 		(at 101.6 148.59 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7286,7 +7240,6 @@
 	)
 	(label "DP1"
 		(at 171.45 106.68 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7297,7 +7250,6 @@
 	)
 	(label "MP0"
 		(at 171.45 166.37 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7308,7 +7260,6 @@
 	)
 	(label "DP0"
 		(at 171.45 52.07 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7319,7 +7270,6 @@
 	)
 	(label "MEM_MODE"
 		(at 149.86 16.51 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7330,7 +7280,6 @@
 	)
 	(label "HPD6"
 		(at 100.33 93.98 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7341,7 +7290,6 @@
 	)
 	(label "MP1"
 		(at 171.45 163.83 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7352,7 +7300,6 @@
 	)
 	(label "DP2"
 		(at 171.45 104.14 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7363,7 +7310,6 @@
 	)
 	(label "MP5"
 		(at 171.45 210.82 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7374,7 +7320,6 @@
 	)
 	(label "HPD4"
 		(at 100.33 99.06 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7385,7 +7330,6 @@
 	)
 	(label "HPD7"
 		(at 101.6 34.29 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7396,7 +7340,6 @@
 	)
 	(label "IPD2"
 		(at 101.6 218.44 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7407,7 +7350,6 @@
 	)
 	(label "IPD0"
 		(at 101.6 223.52 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7418,7 +7360,6 @@
 	)
 	(label "DP7"
 		(at 171.45 34.29 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7429,7 +7370,6 @@
 	)
 	(label "MEM_CLR"
 		(at 140.97 130.81 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7440,7 +7380,6 @@
 	)
 	(label "DP6"
 		(at 171.45 36.83 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7451,7 +7390,6 @@
 	)
 	(label "DP0"
 		(at 171.45 109.22 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7462,7 +7400,6 @@
 	)
 	(label "HPD7"
 		(at 100.33 91.44 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7473,7 +7410,6 @@
 	)
 	(label "MEM_MODE"
 		(at 149.86 130.81 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7484,7 +7420,6 @@
 	)
 	(label "MEM_CLR"
 		(at 140.97 187.96 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7495,7 +7430,6 @@
 	)
 	(label "IPD3"
 		(at 101.6 158.75 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7506,7 +7440,6 @@
 	)
 	(label "MP4"
 		(at 171.45 213.36 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7517,7 +7450,6 @@
 	)
 	(label "HPD4"
 		(at 101.6 41.91 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7528,7 +7460,6 @@
 	)
 	(label "MP0"
 		(at 171.45 223.52 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7539,7 +7470,6 @@
 	)
 	(label "HPD1"
 		(at 101.6 49.53 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7550,7 +7480,6 @@
 	)
 	(label "DP2"
 		(at 171.45 46.99 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7561,7 +7490,6 @@
 	)
 	(label "MP7"
 		(at 171.45 205.74 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7573,7 +7501,6 @@
 	(hierarchical_label "MEM_CLR"
 		(shape input)
 		(at 40.64 250.19 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7585,7 +7512,6 @@
 	(hierarchical_label "IGPV"
 		(shape input)
 		(at 81.28 241.3 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7597,7 +7523,6 @@
 	(hierarchical_label "ICLK"
 		(shape input)
 		(at 85.09 59.69 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7609,7 +7534,6 @@
 	(hierarchical_label "IGP1"
 		(shape input)
 		(at 31.75 125.73 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7621,7 +7545,6 @@
 	(hierarchical_label "IPD[7..0]"
 		(shape input)
 		(at 96.52 143.51 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7633,7 +7556,6 @@
 	(hierarchical_label "CREF"
 		(shape input)
 		(at 193.04 53.34 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7645,7 +7567,6 @@
 	(hierarchical_label "LLC"
 		(shape input)
 		(at 190.5 53.34 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7657,7 +7578,6 @@
 	(hierarchical_label "DP[7..0]"
 		(shape output)
 		(at 176.53 29.21 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7669,7 +7589,6 @@
 	(hierarchical_label "RCV1"
 		(shape input)
 		(at 187.96 241.3 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7681,7 +7600,6 @@
 	(hierarchical_label "MEM_MODE"
 		(shape input)
 		(at 40.64 203.2 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7693,7 +7611,6 @@
 	(hierarchical_label "FREEZE"
 		(shape input)
 		(at 33.02 110.49 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7705,7 +7622,6 @@
 	(hierarchical_label "Q2"
 		(shape input)
 		(at 187.96 180.34 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7717,7 +7633,6 @@
 	(hierarchical_label "IDQ"
 		(shape input)
 		(at 85.09 57.15 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7729,7 +7644,6 @@
 	(hierarchical_label "MP[7..0]"
 		(shape output)
 		(at 176.53 143.51 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7741,7 +7655,6 @@
 	(hierarchical_label "IGP0"
 		(shape input)
 		(at 31.75 118.11 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7753,7 +7666,6 @@
 	(hierarchical_label "RCV2"
 		(shape input)
 		(at 187.96 243.84 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7765,7 +7677,6 @@
 	(hierarchical_label "Q1"
 		(shape input)
 		(at 185.42 236.22 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7777,7 +7688,6 @@
 	(hierarchical_label "HPD[7..0]"
 		(shape input)
 		(at 96.52 29.21 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7789,7 +7699,6 @@
 	(hierarchical_label "IGPH"
 		(shape input)
 		(at 81.28 243.84 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
